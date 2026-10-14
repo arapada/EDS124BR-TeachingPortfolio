@@ -9,3 +9,6 @@ https://youtu.be/v8t-83pxZZg?si=gBHo93Yt6cYytXLc
 https://youtu.be/VhYaywMjMcU
 ### Lesson Plan
 https://youtu.be/a1lNN3Bm0Tc
+
+## Week 3: Nested Loops
+https://youtu.be/e1u1lZC-NNw
