@@ -8,7 +8,7 @@ https://youtu.be/v8t-83pxZZg?si=gBHo93Yt6cYytXLc
 
 ## Week 2: Explain Your Program
 https://youtu.be/VhYaywMjMcU
-### Lesson Plan
+### Lesson Plan:
 https://youtu.be/a1lNN3Bm0Tc
 
 
