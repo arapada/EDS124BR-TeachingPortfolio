@@ -17,4 +17,4 @@ https://youtu.be/a1lNN3Bm0Tc
 ## Week 3: Nested Loops
 https://youtu.be/e1u1lZC-NNw
 ### Events:
-link
+https://youtu.be/ix80ZVuviSE?si=TDSGhveqXjzY4owv
