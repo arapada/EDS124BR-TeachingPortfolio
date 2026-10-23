@@ -18,3 +18,7 @@ https://youtu.be/a1lNN3Bm0Tc
 https://youtu.be/e1u1lZC-NNw
 ### Events:
 https://youtu.be/ix80ZVuviSE?si=TDSGhveqXjzY4owv
+
+
+## Week 4: Variables
+https://youtu.be/wlAABekTxnk
