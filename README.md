@@ -22,3 +22,7 @@ https://youtu.be/ix80ZVuviSE?si=TDSGhveqXjzY4owv
 
 ## Week 4: Variables
 https://youtu.be/wlAABekTxnk
+
+
+## Week 5: Conditional Loops
+https://youtu.be/WIA5AfaeW48
