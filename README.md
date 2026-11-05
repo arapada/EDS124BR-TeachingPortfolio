@@ -26,3 +26,6 @@ https://youtu.be/wlAABekTxnk
 
 ## Week 5: Conditional Loops
 https://youtu.be/WIA5AfaeW48
+
+## Week 6: If-Else
+https://youtu.be/PD4tzYcT040
